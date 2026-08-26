@@ -1,0 +1,4 @@
+# 本地运行产物与敏感凭证（勿提交）
+cookie.txt
+batch_result.json
+zhihu-fetch-workspace/
